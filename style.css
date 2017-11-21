@@ -1,0 +1,43 @@
+.harmaatausta {
+	text-align: center;
+}
+
+.laatikko h2 {
+	margin-bottom: 20px;
+}
+
+a.ikoni {
+	display: inline-block;
+	border-radius: 50%;	
+	color: #3c3c3c;
+	size: 20px;
+}
+
+h1.nimi {
+	color: #3c3c3c;
+}
+
+.fa {
+	display: inline-block;
+	size: 20px;
+}
+
+.teksti p {
+	font-size: 12 px;
+}
+
+.laatikko {
+	background-color: #eee;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	margin-bottom: 25px;
+	border-radius: 10px;
+}
+
+.kuva img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
