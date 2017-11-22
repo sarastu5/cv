@@ -11,6 +11,7 @@ a.ikoni {
 	border-radius: 50%;	
 	color: #3c3c3c;
 	size: 20px;
+	font-size: 20px;
 }
 
 h1.nimi {
@@ -27,7 +28,7 @@ h1.nimi {
 }
 
 .laatikko {
-	background-color: #eee;
+	background-color: #e6f0ff;
 	padding-left: 60px;
 	padding-right: 60px;
 	padding-top: 60px;
@@ -40,4 +41,8 @@ h1.nimi {
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
+}
+
+td {
+	width: 80px;
 }
